@@ -1,0 +1,30 @@
+#full{
+		background-color: black;
+		height: 1000px;
+	}
+	#instructions{
+		color: white;
+		background-color: grey;
+
+
+	}
+	.crystal{
+		height: 100px;
+		width: 100px;
+		float:left;
+	}
+	#currNum{
+		color: white;
+		text-align: center;
+	}
+	.scoreDiv{
+		color: white;
+		text-align: center;
+	}
+	#mainTitle{
+		color: white;
+		text-align: center;
+	}
+	#playBTN{
+		color:black;
+	}
